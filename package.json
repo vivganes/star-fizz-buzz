@@ -1,0 +1,19 @@
+{
+  "name": "star-fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jasmine"
+  },
+  "repository": {
+    "url": "https://github.com/vivganes/star-fizz-buzz"
+  },
+  "author": "vivganes",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^5.1.4",
+    "jasmine": "^5.1.0",
+    "typescript": "^5.3.3"
+  }
+}
